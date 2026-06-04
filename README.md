@@ -33,4 +33,4 @@ This project analyzes customer churn in a telecom company using SQL Server and P
 
 ## Documentation
 
-A detailed project report is included in the Documentation folder.
+A detailed project report is included.
