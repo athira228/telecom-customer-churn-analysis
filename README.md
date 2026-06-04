@@ -27,6 +27,10 @@ This project analyzes customer churn in a telecom company using SQL Server and P
 
 <img src="Dashboard%20Screenshots/OVERVIEW.png" width="1000">
 
+## Customer Analysis Dashboard
+
+<img src="Dashboard%20Screenshots/Customer%20Detail%20Analysis.png" width="1000">
+
 ## Skills Used
 
 * SQL Data Cleaning and Analysis
