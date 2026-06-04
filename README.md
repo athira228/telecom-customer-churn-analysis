@@ -22,6 +22,11 @@ This project analyzes customer churn in a telecom company using SQL Server and P
 * Fiber optic customers experienced higher churn rates than DSL customers.
 * Customer churn resulted in significant revenue loss.
 
+## Dashboard Preview
+## Executive Overview 
+
+<img src="Dashboard%20Screenshots/dashboard_overview.png" width="1000">
+
 ## Skills Used
 
 * SQL Data Cleaning and Analysis
