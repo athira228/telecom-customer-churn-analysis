@@ -250,27 +250,6 @@ GROUP BY Churn_Label;
 
 /*Insight: Helps understand if high-paying customers are more likely to churn*/
 
-/*Create Customer profile table*/
-CREATE VIEW vw_customer_profile AS
- 
- SELECT 
-   CustomerID, 
-   Gender,
-   Senior_citizen,
-   Partner,
-   dependents,
-   Contract,
-
-	 CONCAT(Tenure_Months, ' Months') AS Tenure,
-
-    Internet_Service,
-    Payment_Method, 
-	Paperless_Billing
-
-FROM customer_churn;
-
-SELECT * 
-FROM vw_customer_profile;
 
 
 
